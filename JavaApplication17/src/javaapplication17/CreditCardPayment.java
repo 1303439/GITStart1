@@ -9,6 +9,6 @@ package javaapplication17;
  *
  * @author 1309013
  */
-public class CreditCardPayment {
+public class CreditCardPayment implements PaymentBehaviour {
     
 }

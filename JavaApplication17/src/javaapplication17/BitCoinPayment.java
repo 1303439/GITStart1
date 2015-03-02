@@ -9,6 +9,6 @@ package javaapplication17;
  *
  * @author 1309013
  */
-public class BitCoinPayment {
+public class BitCoinPayment implements PaymentBehaviour {
     
 }
